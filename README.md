@@ -20,4 +20,8 @@ I've been working on small, functional solutions for myself using React Native a
 
 Fluent in English, Arabic, and Turkish 🇬🇧🇵🇸🇹🇷.
 
-Eager to contribute and learn in a team environment! 💪
+## 📫 Reach Me
+Let's build something awesome! 🙌
+
+- **Instagram:** [@uwayss_11](https://instagram.com/uwayss_11)
+- **Email:** [antar.muhammed1@gmail.com](antar.muhammed1@gmail.com)
