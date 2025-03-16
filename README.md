@@ -1,37 +1,35 @@
 # 👋 Hi there! I'm Muhammed
 
-Welcome to my profile! I'm a passionate developer with a strong interest in web development and cybersecurity. I enjoy building things that make life easier and more secure.
+Welcome to my profile! I'm a 10th-grade student passionate about software development, particularly in mobile applications, with a strong interest in web development and cybersecurity. I enjoy building things that solve problems and exploring the world of secure systems.
 
 ## 🛠️ Technologies & Skills
 
-- **Frontend:**  
-  - HTML, CSS, JavaScript, React
-- **Backend:**  
-  - Python
-- **Cybersecurity:**  
-  - Security best practices and tools
-- **Learning:**  
-  - Currently diving into TypeScript!
+- **Frontend:**
+    - HTML, CSS, JavaScript, React, TypeScript
+- **Mobile:**
+    - React Native, Expo
+- **Backend:**
+    - Python, JavaScript (NodeJS), Linux, Git
+- **Cybersecurity:**
+    - Knowledge of network security principles and practices
+    - Experience with vulnerability assessment and penetration testing methodologies
+    - Knowledge of security best practices and tools
 
 ## 🌱 What I'm Working On
 
-- **Expanding my knowledge in TypeScript**  
-  I’m currently exploring TypeScript to enhance my React projects and write safer, more scalable code.
-
-- **Cybersecurity Projects**  
-  I’m always on the lookout for interesting projects and challenges in the cybersecurity domain.
+- **Exploring Advanced React and TypeScript Features:**
+    I'm currently diving deeper into advanced concepts within React and TypeScript to build even more sophisticated applications.
+- **Expanding Cybersecurity Knowledge:**
+    I'm actively learning about network security and vulnerability assessment through personal projects and studies.
 
 ## 🎯 Goals
 
-- **Master TypeScript**  
-  I aim to become proficient in TypeScript and use it in my React projects.
-
-- **Contribute to Open Source**  
-  I’m keen on contributing to open-source projects, especially those related to web development or cybersecurity.
+- **Contribute to Meaningful Open Source Projects:**
+    I aim to contribute to open-source projects in web development, mobile development, or cybersecurity, leveraging my skills in React, TypeScript, and other technologies.
 
 ## 📫 How to Reach Me
 
-- **Instagram:** [@uwayss_11](#)
+- **Instagram:** [@uwayss_11](https://instagram.com/uwayss_11)
 - **Email:** [mamipromax1513@gmail.com](mamipromax1513@gmail.com)
 
 ---
