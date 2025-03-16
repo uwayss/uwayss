@@ -2,7 +2,7 @@
 
 📍 Istanbul, Türkiye
 
-Welcome to my profile! I'm a 10th-grade student passionate about software development, particularly in mobile applications, with a strong interest in web development and cybersecurity. I enjoy building things that solve problems 💡 and exploring the world of secure systems 🔒.
+Welcome to my profile! I'm a high school student passionate about software development, particularly in mobile applications, with a strong interest in web development and cybersecurity. I enjoy building things that solve problems 💡 and exploring the world of secure systems 🔒.
 
 I'm all about self-learning 🚀 and love experimenting with new tech. I see programming as a way to bring my computer-driven ideas to life.
 
