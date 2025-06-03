@@ -2,7 +2,7 @@
 
 📍 Istanbul, Türkiye
 
-Welcome to my profile! I'm a high school student passionate about software development, particularly in mobile applications, with a strong interest in web development and cybersecurity. I enjoy building things that solve problems 💡 and exploring the world of secure systems 🔒.
+Welcome to my profile! I'm passionate about software development, particularly in mobile applications, with a strong interest in web development and cybersecurity. I enjoy building things that solve problems 💡 and exploring the world of secure systems 🔒.
 
 I'm all about self-learning 🚀 and love experimenting with new tech. I see programming as a way to bring my computer-driven ideas to life.
 
@@ -25,4 +25,3 @@ Let's build something awesome! 🙌
 
 - **Instagram:** [@uwayss_11](https://instagram.com/uwayss_11)
 - **Email:** [antar.muhammed1@gmail.com](antar.muhammed1@gmail.com)
-- [Vercel Linki](https://fen2.vercel.app/) (son podcastleri ingilizce cikartmissin dikkat et)
