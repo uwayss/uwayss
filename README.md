@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Muhammed
 
-📍 Istanbul, Türkiye
+📍 Istanbul
 
 Welcome to my profile! I'm passionate about software development, particularly in mobile applications, with a strong interest in web development and cybersecurity. I enjoy building things that solve problems 💡 and exploring the world of secure systems 🔒.
 
@@ -23,5 +23,4 @@ Fluent in English, Arabic, and Turkish 🇬🇧🇵🇸🇹🇷.
 ## 📫 Reach Me
 Let's build something awesome! 🙌
 
-- **Instagram:** [@uwayss_11](https://instagram.com/uwayss_11)
 - **Email:** [antar.muhammed1@gmail.com](antar.muhammed1@gmail.com)
