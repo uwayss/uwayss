@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Muhammed
+# 👋 Hi there! I'm Uwayss.
 
 📍 Istanbul
 
@@ -16,7 +16,7 @@ I'm all about self-learning 🚀 and love experimenting with new tech. I see pro
     * Experience with vulnerability assessment and penetration testing methodologies
     * Knowledge of security best practices and tools
 
-I've been working on small, functional solutions for myself using React Native and Python to streamline my personal workflows and activities.
+I've been working on small, functional and direct solutions for myself using different langauges and technologies to streamline my personal workflows and activities.
 
 Fluent in English, Arabic, and Turkish 🇬🇧🇵🇸🇹🇷.
 
