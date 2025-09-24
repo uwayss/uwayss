@@ -2,19 +2,16 @@
 
 📍 Istanbul
 
-Welcome to my profile! I'm passionate about software development, particularly in mobile applications, with a strong interest in web development and cybersecurity. I enjoy building things that solve problems 💡 and exploring the world of secure systems 🔒.
+I'm passionate about software development, particularly mobile applications, with a strong interest in web development and cybersecurity too. I enjoy building things that solve problems 💡 while exploring how to make them the safest (and practical) option 🔒.
 
-I'm all about self-learning 🚀 and love experimenting with new tech. I see programming as a way to bring my computer-driven ideas to life.
+I'm all about self-learning 🚀 and love experimenting with new tech. I see programming as a way to bring my computer-driven ideas to life. The code is just a tool for me.
 
 ## 🛠️ Technologies & Skills
 
 * **Frontend:** HTML, CSS, JavaScript, React, TypeScript 🌐
 * **Mobile:** React Native, Expo 📱
 * **Backend:** Python, JavaScript (Node.js), Linux, Git ⚙️
-* **Cybersecurity:**
-    * Knowledge of network security principles and practices
-    * Experience with vulnerability assessment and penetration testing methodologies
-    * Knowledge of security best practices and tools
+* **Cybersecurity:** Network principles 🌐, vulnerability assessment methodologies 🔬, best practices and tools 🛡️
 
 I've been working on small, functional and direct solutions for myself using different langauges and technologies to streamline my personal workflows and activities.
 
