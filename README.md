@@ -1,45 +1,23 @@
-# 👋 Hey, I'm Uwayss  
+# 👋 Hi there! I'm Uwayss.
 
-📍 Istanbul  
+📍 Istanbul
 
-I'm a self-taught developer who loves turning abstract ideas into real, working software. I specialize in **mobile development** and **cybersecurity**, with a focus on making things both **usable and bulletproof**.  
+I'm passionate about software development, particularly mobile applications, with a strong interest in web development and cybersecurity too. I enjoy building things that solve problems 💡 while exploring how to make them the safest (and practical) option 🔒.
 
-Right now, I’m the **Lead Developer at [MultiChat](https://github.com/MultiChat-Beta)** — building tools that connect and simplify digital communication.  
+I'm all about self-learning 🚀 and love experimenting with new tech. I see programming as a way to bring my computer-driven ideas to life. The code is just a tool for me.
 
-I like clean, fast code. Not because it looks nice (well, also that), but because it *feels* right when everything just works.  
+## 🛠️ Technologies & Skills
 
----
+* **Frontend:** HTML, CSS, JavaScript, React, TypeScript 🌐
+* **Mobile:** React Native, Expo 📱
+* **Backend:** Python, JavaScript (Node.js), Linux, Git ⚙️
+* **Cybersecurity:** Network principles 🌐, vulnerability assessment methodologies 🔬, best practices and tools 🛡️
 
-## ⚙️ Technologies & Skills  
+I've been working on small, functional and direct solutions for myself using different langauges and technologies to streamline my personal workflows and activities.
 
-**Frontend:** HTML, CSS, JavaScript, React, TypeScript  
-**Mobile:** React Native, Expo  
-**Backend:** Node.js (JavaScript), Python, Linux, Git  
-**Cybersecurity:** Network principles, vulnerability assessment, best practices  
+Fluent in English, Arabic, and Turkish 🇬🇧🇵🇸🇹🇷.
 
-I work best when I'm building something small, sharp, and actually useful — no overengineering, no fluff.  
+## 📫 Reach Me
+Let's build something awesome! 🙌
 
----
-
-## 🚀 What I’m into  
-
-🧠 Learning new tools and tearing them apart to see how they work.  
-🔒 Exploring how security fits into real-world, everyday software.  
-💬 Mixing code, creativity, and automation to make life smoother.  
-
----
-
-## 🌐 Languages  
-
-Fluent in **English**, **Arabic**, and **Turkish** — and occasionally, fluent in Stack Overflow 😅  
-
----
-
-## 📫 Reach Me  
-
-Let’s build something cool:  
-📧 [antar.muhammed1@gmail.com](mailto:antar.muhammed1@gmail.com)  
-
----
-
-⭐ *“Good software doesn’t just solve problems — it makes people forget the problem ever existed.”*
+- **Email:** [antar.muhammed1@gmail.com](antar.muhammed1@gmail.com)
