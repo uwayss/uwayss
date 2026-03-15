@@ -2,14 +2,13 @@
 
 📍 Istanbul, Turkey  
 
-I build secure, performance-focused systems — the kind that make complex things feel simple and almost “invisible.”
+I build secure, performance-focused systems. The kind that make complex things feel simple and almost “invisible.”
 
 I’m deeply interested in architecture, infrastructure, and designing tools that genuinely improve how people interact with technology, without compromising privacy or the principles I care about.
 
 I enjoy taking abstract ideas and shaping them into structured, scalable systems.  
 Code is my tool. Systems thinking is the foundation.
 
----
 
 ## 🛠 Tech
 
@@ -19,12 +18,10 @@ Code is my tool. Systems thinking is the foundation.
 **Infra:** Linux, Docker, Git workflows  
 **Security:** Network fundamentals, threat modeling basics, secure design principles
 
----
 
 ## 🌍 Languages
 English, Arabic, Turkish
 
----
 
 ## 🤝 Connect
 Building ambitious systems or secure infrastructure? Let’s talk.
