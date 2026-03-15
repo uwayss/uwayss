@@ -1,25 +1,34 @@
-# 👋 Hi there! I'm Uwayss.
+# Hi, I’m Uwayss
 
-📍 Istanbul
+📍 Istanbul, Turkey  
 
-I'm passionate about software development, particularly smart sytems that make things "magically" easier, with a strong interest in cybersecurity too. 
-I enjoy building solutions to problems while exploring how to make them the absolute safest, most performant and the most optimized option ever. ⚡️
+I build secure, performance-focused systems — the kind that make complex things feel simple and almost “invisible.”
 
-I'm all about self-learning and love experimenting with tech. Since programming is a way to bring my ideas to life, The code is just a tool for me. But here's the list you're looking for anyways
+I’m deeply interested in architecture, infrastructure, and designing tools that genuinely improve how people interact with technology, without compromising privacy or the principles I care about.
 
-## 🛠️ Skills
+I enjoy taking abstract ideas and shaping them into structured, scalable systems.  
+Code is my tool. Systems thinking is the foundation.
 
-* **Frontend:** Web, React, TypeScript
-* **Mobile:** React Native, Expo, some Kotlin
-* **Backend:** Python, JavaScript (Node.js), Linux, Git
-* **Cybersecurity:** Network principles, vulnerability assessment methodologies, best practices and tools 🛡️
+---
 
-I've been working on small, functional and direct solutions for myself using different langauges and technologies to streamline my personal workflows and activities.
+## 🛠 Tech
 
-I'm Fluent in English, Arabic, and Turkish 🇬🇧🇵🇸🇹🇷.
+**Frontend:** React (Vite, Next.js), TypeScript  
+**Mobile:** React Native (Expo), basic Kotlin & Swift  
+**Backend:** Node.js, Python  
+**Infra:** Linux, Docker, Git workflows  
+**Security:** Network fundamentals, threat modeling basics, secure design principles
 
-## 📫 Reach Me
-Let's build something awesome! 🙌
+---
 
-- **Email:** [antar.muhammed1@gmail.com](antar.muhammed1@gmail.com)
-- **Instagram:** @uwayss1
+## 🌍 Languages
+English, Arabic, Turkish
+
+---
+
+## 🤝 Connect
+Building ambitious systems or secure infrastructure? Let’s talk.
+
+📧 antar.muhammed1@gmail.com  
+🐙 GitHub: @uwayss  
+📸 Instagram: @uwayss1
