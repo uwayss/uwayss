@@ -2,30 +2,24 @@
 
 📍 Istanbul, Turkey  
 
-I build secure, performance-focused systems. The kind that make complex things feel simple and almost “invisible.”
+I build the secure and performant systems that make complex things suddenly simple.
 
-I’m deeply interested in architecture, infrastructure, and designing tools that genuinely improve how people interact with technology, without compromising privacy or the principles I care about.
+I LOVE:
+- Architecting
+- Designing tools that geniuinely improve stuff
+- Make people's interactions with technology simpler and better
+- Making the best solution without compromising or violating my ethical principles at the same time (Believe me that's a hard thing...)
 
-I enjoy taking abstract ideas and shaping them into structured, scalable systems.  
-Code is my tool. Systems thinking is the foundation.
+I enjoy:
+- Taking abstract ideas and shaping them into structured systems
+- Scalable systems
+- Designing data intensive applications (It's a book, read it)
 
+I Fluently Speak:
+English, 🇵🇸 Arabic and 🇹🇷 Turkish
 
-## 🛠 Tech
-
-**Frontend:** React (Vite, Next.js), TypeScript  
-**Mobile:** React Native (Expo), basic Kotlin & Swift  
-**Backend:** Node.js, Python  
-**Infra:** Linux, Docker, Git workflows  
-**Security:** Network fundamentals, threat modeling basics, secure design principles
-
-
-## 🌍 Languages
-English, Arabic, Turkish
-
-
-## 🤝 Connect
-Building ambitious systems or secure infrastructure? Let’s talk.
-
+🤝 You Can Find Me On:
 📧 antar.muhammed1@gmail.com  
-🐙 GitHub: @uwayss  
-📸 Instagram: @uwayss1
+GitHub: @uwayss  
+Instagram: @uwayss1
+Telegram: @uwayss
