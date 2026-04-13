@@ -19,7 +19,7 @@ I build the secure and performant systems that make complex things suddenly simp
 - English, 🇵🇸 Arabic and 🇹🇷 Turkish
 
 🤝 You Can Find Me On:
-📧 antar.muhammed1@gmail.com  
-GitHub: @uwayss  
-Instagram: @uwayss1
-Telegram: @uwayss
+- 📧 antar.muhammed1@gmail.com  
+- GitHub: @uwayss  
+- Instagram: @uwayss1
+- Telegram: @uwayss
