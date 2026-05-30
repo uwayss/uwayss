@@ -1,6 +1,4 @@
-# Hi, I’m Uwayss
-
-📍 Istanbul, Turkey  
+# 📍 Istanbul, Turkey  
 
 I build the secure and performant systems that make complex things suddenly simple.
 
