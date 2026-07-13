@@ -1,23 +1,22 @@
-# 📍 Istanbul, Turkey  
+# 📍 Istanbul, TR
 
-I build the secure and performant systems that make complex things suddenly simple.
+I build things. Mostly systems that take something messy and make it feel obvious.
 
-😍 I LOVE:
-- Architecting
-- Designing tools that geniuinely improve stuff
-- Make people's interactions with technology simpler and better
-- Making the best solution without compromising or violating my ethical principles at the same time (Believe me that's a hard thing...)
+**stuff I'm into**
+- architecture — turning vague ideas into robust structures
+- tools that people actually keep using
+- keeping it simple on the surface, even when it isn't underneath
+- doing it right without cutting the corners (privacy, values, etc)
 
-⚡️ I enjoy:
-- Taking abstract ideas and shaping them into structured systems
-- Scalable systems
-- Designing data intensive applications (It's a book, read it)
+**currently thinking about**
+- ways to incorporate LLMs without the insane costs and making them actually useful
+- solutions that help humans express their thoughts easier (creativity software)
 
-🎨 I Fluently Speak:
-- English, 🇵🇸 Arabic and 🇹🇷 Turkish
+**languages**
+- English, 🇵🇸 Arabic, 🇹🇷 Turkish
 
-🤝 You Can Find Me On:
-- 📧 antar.muhammed1@gmail.com  
-- GitHub: @uwayss  
-- Instagram: @uwayss1
-- Telegram: @uwayss
+**around**
+- 📧 antar.muhammed1@gmail.com
+- GitHub @uwayss
+- Instagram @uwayss1
+- Telegram @uwayss1
