@@ -8,6 +8,7 @@ I build software systems that simplify stuff.
 - keeping things dead simple on the surface, even when underneath they're not.
 
 **currently thinking about**
+
 solutions that help humans express their thoughts easier (creativity software)
 
 **i speak:**
