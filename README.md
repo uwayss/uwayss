@@ -1,6 +1,6 @@
 # 📍 Istanbul, TR
 
-I build things. Mostly systems that simplify stuff.
+I build software systems that simplify stuff.
 
 **stuff I'm into**
 - architecture
@@ -10,8 +10,8 @@ I build things. Mostly systems that simplify stuff.
 **currently thinking about**
 solutions that help humans express their thoughts easier (creativity software)
 
-**i fluently speak:**
-- English, 🇵🇸 Arabic, 🇹🇷 Turkish
+**i speak:**
+- English, Arabic, Turkish
 
 **you can find me at:**
 - 📧 antar.muhammed1@gmail.com
